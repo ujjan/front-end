@@ -2,172 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d57ebfab-7013-431c-b6e9-93475c23b2f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch1 _ example1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch1_example3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Personal-Desktop2/Personal-web-Desktop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Personal-desktop/Personal-web-Desktop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Vagrantfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/.jscsrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/css-dock-bottom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/css-dock.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/iepngfix.htc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/Apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/blank.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/calendar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/chat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/dock-bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/dock-bg2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/history.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/main-bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/portfolio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/rss2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/images/video.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/js/interface.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/css-dock-menu/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/image/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/javascript/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/javascript/jquery-1.12.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/font-awesome-4.6.3/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/debug/stylesheet/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/font-awesome-4.6.3.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/css-dock-bottom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/css-dock.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/iepngfix.htc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/Apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/blank.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/calendar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/chat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/dock-bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/dock-bg2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/history.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/main-bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/portfolio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/rss2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/images/video.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/js/interface.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css-dock-menu/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/font-awesome-4.6.3/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/image/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/js/calander.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/js/chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/js/dragWindow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/client/source/js/game.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examination/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exe/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../install-node.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../provision.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/callculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -192,9 +28,27 @@
       <usages-collector id="statistics.file.types.open" />
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
+    <session id="935253030">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calculator/calculator.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -246,22 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1541530684968</updated>
       <workItem from="1541530686239" duration="1080000" />
+      <workItem from="1568550670073" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1080000" />
+    <option name="totallyTimeSpent" value="1082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="694" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -269,6 +120,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -279,5 +134,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/calculator/calculator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
